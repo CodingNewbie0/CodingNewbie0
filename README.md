@@ -9,8 +9,10 @@
 
 #### :pencil2: 프로그래밍 학습 항목
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingNewbie0)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingNewbie0&theme=tokyonight)](https://github.com/CodingNewbie0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingNewbie0&theme=tokyonight)](https://github.com/CodingNewbie0/github-readme-stats)
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)-->
 
@@ -30,7 +32,7 @@
 
  --------------------
 
-## :pencil2: 백준 티어
+## :pencil2: 백준
 [![Solved.ac{프로필}](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahrgjdy)](https://solved.ac/ahrgjdy)
 [![Solved.ac{프로필}](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahrgjdy)](https://solved.ac/ahrgjdy)
  
@@ -38,12 +40,12 @@
    
  --------------------
   
-##  :clipboard: 기술 스택
+##  :clipboard: Skill
 
 #### Langauge
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=c++&logoColor=white">
-<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=c#&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
@@ -58,7 +60,6 @@
 
 #### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  
    <br/>
  
