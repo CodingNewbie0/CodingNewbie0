@@ -8,12 +8,12 @@
 
   --------------------
 
-#### :pencil2: 프로그래밍 학습 항목
+## :pencil2: 프로그래밍 학습 항목
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingNewbie0&theme=tokyonight)](https://github.com/CodingNewbie0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingNewbie0&theme=tokyonight)](https://github.com/CodingNewbie0/github-readme-stats)
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CodingNewbie0)
   
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)-->
 
@@ -35,6 +35,7 @@
 
 ## :pencil2: 백준
 [![Solved.ac{프로필}](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahrgjdy)](https://solved.ac/profile/ahrgjdy)
+
 [![Solved.ac{프로필}](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahrgjdy)](https://solved.ac/profile/ahrgjdy)
  
    <br/>
