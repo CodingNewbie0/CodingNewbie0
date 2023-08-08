@@ -60,7 +60,7 @@
 [<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">](https://ko.wikipedia.org/wiki/MySQL)
  
    <br/>
- 
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 
